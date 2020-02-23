@@ -13,5 +13,6 @@ def print_first_directors_movie_titles
   while counter < movies.size do 
     puts movies[counter][:titles]
     counter++
+  end
     
 end
